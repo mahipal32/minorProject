@@ -1,0 +1,2 @@
+# minorProject
+Minor Project NDMS
